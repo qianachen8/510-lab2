@@ -21,6 +21,7 @@ beautifulsoup4
 
 ## Lessions Learned
 -- Weather and Location API (Location API and OpenStreeet Map Geocoding API)
+
 -- Web Scraper
 
 ## Questions
